@@ -21,8 +21,11 @@ jupyter-lab
 python preprocess.py --BG 10 $PATH2txtdir
 ```
 ### Get Peak Information
+- Using molecular dictionary to identify known molecules
 ```
 python getpeak.py
 ```
+- Non-targeted peak identification
+
 ### Get Heatmaps
 
