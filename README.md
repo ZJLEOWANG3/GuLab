@@ -11,6 +11,14 @@ cd C:\Users\April's Lab\scripts
 ```
 jupyter-lab
 ```
+## Common command for Raman data processing using Pandas
+```
+import pandas as pd # module to read and process table
+df = pd.read_csv(path,index_col=0) # to read the csv dataframe saved by below command
+df.to_csv(path) # to save dataframe, it will save the index
+X.index = Y.index # assign index of Y to X
+df = pd.concat([X,Y],axis=1) # concatenate 2 dataframe along either row (axis=0) or column; need to make sure they have same index or column name
+```
 
 ## Basic Usage to process data
 ### Preprocessing
