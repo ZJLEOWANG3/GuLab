@@ -102,7 +102,6 @@ python getpeak.py
 
 ## For Sorting system, just to identify what is PAO
 - Log in jupyter-lab
-```
+    - Use the code in Raman_PAO.ipynb
 
-```
 
