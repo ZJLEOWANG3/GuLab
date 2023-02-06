@@ -1,5 +1,5 @@
 # Gu-omics Lab
-![Double Spring](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchinesenewyear.net%2Fzodiac%2Frabbit%2F&psig=AOvVaw3R4Cr-wU2pqo0P1UCd3idg&ust=1675809500943000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCEmYX7gf0CFQAAAAAdAAAAABAD)
+![Double Spring](https://chinesenewyear.imgix.net/assets/images/zodiac/chinese-zodiac-rabbit.png?fit=crop&q=50&w=2216&h=448&auto=format)
 
 To help automate spectral processing in Gu Lab
 
