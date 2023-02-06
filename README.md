@@ -1,4 +1,6 @@
-# GuLab
+# Gu-omics Lab
+![Double Spring](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchinesenewyear.net%2Fzodiac%2Frabbit%2F&psig=AOvVaw3R4Cr-wU2pqo0P1UCd3idg&ust=1675809500943000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLCEmYX7gf0CFQAAAAAdAAAAABAD)
+
 To help automate spectral processing in Gu Lab
 
 ## Use Jupyter-lab in Gu Lab Computer
