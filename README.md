@@ -4,7 +4,7 @@
 To help automate spectral processing in Gu Lab
 
 ## Use Jupyter-lab in Gu Lab Computer
-- type ```Anaconda Prompt``` in windows search bar
+- type ```Anaconda Powershell Prompt``` in windows search bar
 - change directory 
 ```
 cd C:\Users\April's Lab\GitHub
@@ -79,7 +79,7 @@ tree ./Eggmato
     ....
 ```
 ## Basic Usage to process data
-### Once you entered the Jupyter-Lab kernel page, you would click to enter ```RamanomeSpec/example```
-### Open ```Basic_Workflow.ipynb```
-### By click :arrow_forward: to run each section
-
+- Once you entered the Jupyter-Lab kernel page, you would click to enter ```RamanomeSpec/example```
+- Open ```Basic_Workflow.ipynb```
+- By click :arrow_forward: to run each section
+- Revise the input path and output path as the tutorial guides in the jupyterbook
