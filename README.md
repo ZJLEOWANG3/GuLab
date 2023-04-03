@@ -1,6 +1,8 @@
 # Gu-omics Lab
 ![Double Spring](https://chinesenewyear.imgix.net/assets/images/zodiac/chinese-zodiac-rabbit.png?fit=crop&q=50&w=2216&h=448&auto=format)
 
+## [ClusterSetup](./ClusterSetUp)
+
 To help automate spectral processing in Gu Lab
 
 ## Use Jupyter-lab in Gu Lab Computer
