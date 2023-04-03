@@ -1,4 +1,4 @@
-- Change Account
+# New Cluster Account Environment Setup
 ```
 vim .ssh/config # same public-private key but change the user and host name for this case
 ```
