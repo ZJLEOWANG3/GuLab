@@ -32,4 +32,7 @@ vim .ssh/config # same public-private key but change the user and host name for 
   # lib so file
   bash ../custom.sh # successful if you see no error and Make file in
   make -j4 # 4 clusters
+  make check -j4 # this is a test case either check or test
+  make install  # installation
+  ll ~/opt/$softwarename # check installation dir
   ``` 
